@@ -1,1 +1,3 @@
-Esta es la primer actividad de la primer clase del segundo semestre
+
+
+Actividad de la clase 3 de Metodologia
